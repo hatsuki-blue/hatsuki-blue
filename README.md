@@ -1,4 +1,4 @@
-# Hi there, I'm Hatsuki 👋
+# Hi there, I'm Hatsuki
 
 ## About Me
 - 🌱 現在学習中: `React`
@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hatsuki-blue&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact)
 
 ## Works
 - 🔭 `null` - `None`
@@ -24,7 +24,7 @@
 ## Spotify
 - 🎵 Favorite Track: [ウミユリ海底譚](https://open.spotify.com/intl-ja/track/0doneeu1qwykxygi6qpORV?si=2599858f66ef488d)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOUR_TRACK_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0doneeu1qwykxygi6qpORV?si=2599858f66ef488d?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Contact
 - X: `@Hatsuki_blue`
