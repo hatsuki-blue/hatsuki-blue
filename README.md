@@ -12,18 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Hatsuki;%F0%9F%8E%93+Student+at+National+College+of+Technology;%F0%9F%92%BB+Passionate+about+Web+Dev+%26+Automation" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- SOCIAL BADGES -->
-
-<a href="https://github.com/hatsuki-blue">
-  <img src="https://img.shields.io/badge/GitHub-hatsuki--blue-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://open.spotify.com/track/0doneeu1qwykxygi6qpORV">
-  <img src="https://img.shields.io/badge/Spotify-Favorite%20Song-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
@@ -116,23 +104,7 @@ currently_learning:
 
 </div>
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SPOTIFY -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="28" /> &nbsp;Vibes
-
-<div align="center">
-
-<a href="https://open.spotify.com/track/0doneeu1qwykxygi6qpORV">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Now%20Vibing-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
