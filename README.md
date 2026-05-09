@@ -9,7 +9,7 @@
 <!-- TYPING SVG -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Hatsuki;%F0%9F%8E%93+Student+at+National+College+of+Technology;%F0%9F%92%BB+Passionate+about+Web+Dev+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Hatsuki;%F0%9F%8E%93+Student+at+National+College+of+Technology;%F0%9F%92%BB+Passionate+about+Web+Dev+%26+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -84,13 +84,15 @@ currently_learning:
 
 <div align="center">
 
-<a href="https://github.com/hatsuki-blue">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hatsuki-blue&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hatsuki-blue&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hatsuki-blue&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
 &nbsp;&nbsp;
-<a href="https://github.com/hatsuki-blue">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
