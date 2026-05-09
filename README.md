@@ -9,7 +9,7 @@
 <!-- TYPING SVG -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Hatsuki;%F0%9F%8E%93+Student+at+National+College+of+Technology;%F0%9F%92%BB+Passionate+about+Web+Dev+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Hi%2C+I'm+Hatsuki!;Student+at+National+College+of+Technology!;Passionate+about+Web+Dev+%26+Automation!!" alt="Typing SVG" />
 </a>
 
 </div>
@@ -115,11 +115,5 @@ currently_learning:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=hatsuki-blue&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<sub>⚡ Built with passion from Japan</sub>
 
 </div>
