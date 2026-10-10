@@ -155,7 +155,7 @@ goals:
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=hatsuki-blue&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=hatsuki-blue&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=6" alt="GitHub Trophies" />
 
 </div>
 
