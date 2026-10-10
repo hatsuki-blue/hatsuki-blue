@@ -37,7 +37,7 @@
 <tr>
 <td width="50%" valign="top" style="width:50%;">
 
-<pre style="width:100%; box-sizing:border-box; text-align:left;"><code>
+```yaml
 profile:
   name:       Hatsuki
   location:   Japan 🇯🇵
@@ -47,12 +47,12 @@ fields:
   - Web Development
   - Automation & Scripting
   - Systems Programming
-</code></pre>
+```
 
 </td>
 <td width="50%" valign="top" style="width:50%;">
 
-<pre style="width:100%; box-sizing:border-box; text-align:left;"><code>
+```yaml
 currently_learning:
   - Go
   - Python
@@ -62,7 +62,7 @@ goals:
   - Write clean, readable code
   - Continuously improve skills
   - Contribute to open-source
-</code></pre>
+```
 
 </td>
 </tr>
