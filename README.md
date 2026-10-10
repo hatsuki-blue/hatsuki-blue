@@ -19,14 +19,6 @@
 
 <br/><br/>
 
-<!-- ─────────────── PROFILE BADGES ─────────────── -->
-
-<a href="https://github.com/hatsuki-blue">
-  <img src="https://img.shields.io/github/followers/hatsuki-blue?label=Followers&style=flat-square&color=1f6feb&labelColor=0d1117&logo=github&logoColor=8b949e" alt="followers" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hatsuki-blue&style=flat-square&color=1f6feb&label=Profile+Views" alt="profile views" />
-
 </div>
 
 <br/>
@@ -157,7 +149,7 @@ goals:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatsuki-blue&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&radius=12)](https://github.com/hatsuki-blue)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatsuki-blue&theme=github_dark" alt="GitHub activity summary" width="100%" />
 
 </div>
 
