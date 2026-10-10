@@ -35,9 +35,9 @@
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="width:50%;">
 
-```yaml
+<pre style="width:100%; box-sizing:border-box; text-align:left;"><code>
 name:       Hatsuki
 location:   Japan 🇯🇵
 education:  National College of Technology
@@ -46,12 +46,12 @@ fields:
   - Web Development
   - Automation & Scripting
   - Systems Programming
-```
+</code></pre>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="width:50%;">
 
-```yaml
+<pre style="width:100%; box-sizing:border-box; text-align:left;"><code>
 currently_learning:
   - Go
   - Python
@@ -61,7 +61,7 @@ goals:
   - Write clean, readable code
   - Continuously improve skills
   - Contribute to open-source
-```
+</code></pre>
 
 </td>
 </tr>
