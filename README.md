@@ -17,14 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=30&lines=%E2%9C%A8+Welcome+to+my+GitHub!;%F0%9F%8E%93+Student+at+National+College+of+Technology;%F0%9F%8C%90+Passionate+about+Web+Dev+%26+Automation;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- ─────────────── PROFILE BADGES ─────────────── -->
-
-<a href="https://github.com/hatsuki-blue">
-  <img src="https://img.shields.io/github/followers/hatsuki-blue?label=Followers&style=flat-square&color=1f6feb&labelColor=0d1117&logo=github&logoColor=8b949e" alt="followers" />
-</a>
-
 </div>
 
 <br/>
@@ -140,22 +132,6 @@ goals:
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hatsuki-blue&theme=transparent&hide_border=true&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=1f6feb30&border_radius=12" />
   <img src="https://streak-stats.demolab.com?user=hatsuki-blue&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="24" align="top" />&nbsp;&nbsp;<strong><code>Trophies</code></strong>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hatsuki-blue&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=6" alt="GitHub Trophies" />
 
 </div>
 
