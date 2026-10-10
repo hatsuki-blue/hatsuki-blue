@@ -155,31 +155,10 @@ goals:
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=hatsuki-blue&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=hatsuki-blue&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=6" alt="GitHub Trophies" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE                                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="24" align="top" />&nbsp;&nbsp;<strong><code>Contribution Graph</code></strong>
-
-<br/><br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hatsuki-blue/hatsuki-blue/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hatsuki-blue/hatsuki-blue/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hatsuki-blue/hatsuki-blue/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER                                                         -->
@@ -188,13 +167,5 @@ goals:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:131a2e,60:1a2744,100:1f6feb&height=120&section=footer" width="100%" />
-
-<br/>
-
-<sub>
-
-`⚡ Crafted with passion`
-
-</sub>
 
 </div>
