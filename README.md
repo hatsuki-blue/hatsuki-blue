@@ -127,13 +127,13 @@ goals:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hatsuki-blue&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hatsuki-blue&show_icons=true&hide_border=true&count_private=true&border_radius=12" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hatsuki-blue&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hatsuki-blue&show_icons=true&theme=transparent&hide_border=true&count_private=true&border_radius=12" alt="GitHub Stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6&border_radius=12" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&hide_border=true&langs_count=6&border_radius=12" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatsuki-blue&layout=compact&theme=transparent&hide_border=true&langs_count=6&border_radius=12" alt="Top Languages" />
 </picture>
 
 <br/><br/>
@@ -157,7 +157,7 @@ goals:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatsuki-blue&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&radius=12)](https://github.com/hatsuki-blue)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatsuki-blue&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&radius=12)](https://github.com/hatsuki-blue)
 
 </div>
 
