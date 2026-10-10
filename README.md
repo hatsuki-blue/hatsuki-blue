@@ -27,6 +27,8 @@
 <!-- ABOUT ME                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="24" align="top" />&nbsp;&nbsp;<strong><code>About Me</code></strong>
 
 <br/><br/>
@@ -64,6 +66,8 @@ goals:
 </td>
 </tr>
 </table>
+
+ </div>
 
 <br/>
 
@@ -182,13 +186,5 @@ goals:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:131a2e,60:1a2744,100:1f6feb&height=120&section=footer" width="100%" />
-
-<br/>
-
-<sub>
-
-`⚡ Crafted with passion`
-
-</sub>
 
 </div>
