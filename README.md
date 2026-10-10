@@ -38,9 +38,10 @@
 <td width="50%" valign="top" style="width:50%;">
 
 <pre style="width:100%; box-sizing:border-box; text-align:left;"><code>
-name:       Hatsuki
-location:   Japan 🇯🇵
-education:  National College of Technology
+profile:
+  name:       Hatsuki
+  location:   Japan 🇯🇵
+  education:  National College of Technology
 
 fields:
   - Web Development
@@ -67,7 +68,7 @@ goals:
 </tr>
 </table>
 
- </div>
+</div>
 
 <br/>
 
